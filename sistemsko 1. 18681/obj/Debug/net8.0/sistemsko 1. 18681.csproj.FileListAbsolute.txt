@@ -1,0 +1,14 @@
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\bin\Debug\net8.0\sistemsko 1. 18681.exe
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\bin\Debug\net8.0\sistemsko 1. 18681.deps.json
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\bin\Debug\net8.0\sistemsko 1. 18681.runtimeconfig.json
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\bin\Debug\net8.0\sistemsko 1. 18681.dll
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\bin\Debug\net8.0\sistemsko 1. 18681.pdb
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\obj\Debug\net8.0\sistemsko 1. 18681.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\obj\Debug\net8.0\sistemsko 1. 18681.AssemblyInfoInputs.cache
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\obj\Debug\net8.0\sistemsko 1. 18681.AssemblyInfo.cs
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\obj\Debug\net8.0\sistemsko 1. 18681.csproj.CoreCompileInputs.cache
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\obj\Debug\net8.0\sistemsko 1. 18681.dll
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\obj\Debug\net8.0\refint\sistemsko 1. 18681.dll
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\obj\Debug\net8.0\sistemsko 1. 18681.pdb
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\obj\Debug\net8.0\sistemsko 1. 18681.genruntimeconfig.cache
+C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681\obj\Debug\net8.0\ref\sistemsko 1. 18681.dll
