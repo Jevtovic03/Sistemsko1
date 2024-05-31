@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
 using System.Net;
 using System.Text;
@@ -45,7 +46,7 @@ namespace sistemsko_1._18681
         public static void CountOccurrences(HttpListenerContext context, int brojstavki)
         {
             var request = context.Request;
-            var searchWords = request.QueryString?["q"]?.Split(',');
+            var searchWords = request.RawUrl.TrimStart('/').Split('&');
             var files = Directory.GetFiles(Directory.GetCurrentDirectory(), "*.txt");
             var result = new StringBuilder();
             if (searchWords == null || searchWords.Length == 0)
@@ -65,20 +66,28 @@ namespace sistemsko_1._18681
                 }
             }
 
-            var rootDirectory = @"C:\Users\JEVTOVIC\Desktop\sp\web sistemsko\sistemsko 1. 18681"; // putanja
+            var rootDirectory = Directory.GetCurrentDirectory(); // putanja
 
             foreach (var file in Directory.GetFiles(rootDirectory, "*.txt", SearchOption.AllDirectories))
             {
                 var fileName = Path.GetFileName(file);
 
+                var fileContent = File.ReadAllText(file);
+
                 var fileResult = new StringBuilder();
 
                 foreach (var word in searchWords)
                 {
-                    var wordCount = izbroji(fileName, word);
+                    var wordCount = izbroji(fileContent, word);
                     if (wordCount > 0)
-                        fileResult.AppendLine($"<p>{fileName}: {wordCount} pojavljivanja</p>");
-                    kes.WriteToCache(word.GetHashCode(), $"{fileName}: {wordCount} pojavljivanja");
+                    {
+                        fileResult.AppendLine($"<p>U fajlu : {fileName}, za rec {word} postoji: {wordCount} pojavljivanja</p>");
+                        kes.WriteToCache(word.GetHashCode(), $"<p>U fajlu : {fileName}, za rec {word} postoji: {wordCount} pojavljivanja</p>");
+                    }
+                    else {
+                        fileResult.AppendLine($"<p>U fajlu : {fileName}, za rec {word} ne postoje pojavljivanja</p>");
+                        kes.WriteToCache(word.GetHashCode(), $"<p>U fajlu : {fileName}, za rec {word} ne postoje pojavljivanja</p>");
+                    }
                 }
                 if(fileResult.Length == 0)
                     fileResult.AppendLine($"<p>Nema pojavljivanja</p>");
