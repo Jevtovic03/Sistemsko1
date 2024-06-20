@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RhI5gHqKfmAqAS/oUTuaHR8ihLzpwm4as4I2TaV9cYNsz0GTaq5mJ7zJIlOVW115yEiP436BFMJFFFYtihyuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JEVTOVIC\\Desktop\\sp\\sistemsko3\\sistemsko3\\sistemsko3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JEVTOVIC\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\sistemsko3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\sistemsko3.AssemblyInfoInputs.cache
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\sistemsko3.AssemblyInfo.cs
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\sistemsko3.csproj.CoreCompileInputs.cache
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\sistemsko3.csproj.AssemblyReference.cache
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\bin\Debug\net7.0\sistemsko3.exe
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\bin\Debug\net7.0\sistemsko3.deps.json
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\bin\Debug\net7.0\sistemsko3.runtimeconfig.json
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\bin\Debug\net7.0\sistemsko3.dll
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\bin\Debug\net7.0\sistemsko3.pdb
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\sistemsko3.csproj.CopyComplete
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\sistemsko3.dll
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\refint\sistemsko3.dll
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\sistemsko3.pdb
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\sistemsko3.genruntimeconfig.cache
+C:\Users\JEVTOVIC\Desktop\sp\sistemsko3\sistemsko3\obj\Debug\net7.0\ref\sistemsko3.dll
